@@ -1,0 +1,133 @@
+NPC Generator
+
+    Gender
+        Male
+        Female
+    Race
+        Races
+            Sub-races
+                Race Bonuses
+    Class
+        Adventurer/For hire 8%
+            PC Classes
+        Occupation
+            NPC Occupations #some were specialists in regular occupations as well. races should have varying amounts of skilled/unskilled laborers. Youth's (young adults?) can be apprentices to some occupations
+                Common Occupations 50%
+                    Laborer
+                    Farmer
+                    Unemployed
+                Special Occupations 30%
+                    Baker/Cook
+                    Acolyte
+                    Armorer/Weaponsmith
+                    Apothecary/Herbalist - Herbal Medicines
+                    Artist - Rare
+                    Astrologer - Studies stars - Rare
+                    Bowyer/Fletcher - Bow/Crossbow maker
+                    Barber
+                    Beekeeper
+                    Blacksmith
+                    Bottler - Bottle expensive substances.
+                    Butcher
+                    Butler - In charge of an estates wine cellar.
+                    Candlemaker
+                    Carpenter
+                    Clerk - Keep accounts
+                    Clothier - Clothes maker
+                    Cobbler - Cordwainer - Makes shoes
+                    Ewerer - Hauls water/washes clothes/linens
+                    Engraver - stone/wood engraver
+                    Entertainer
+                    Foreman - In charge of a group of laborers
+                    Gardener -
+                    Gravedigger -
+                    Herald - Gave the public news
+                    Hunter/Woodsman
+                    Innkeeper
+                    Mason - 
+                    Milker
+                    Messenger
+                    Moneylender*
+                    Physician
+                    Potter - Craftsman of clay/ceramics possibly sculptures
+                    Scribe
+                    Scullion - Lowest of the kitchen workers.
+                    Servant
+                    Sheerer
+                    Spinster
+                    Groom/Stable Hand
+                    Tavernkeeper/Innkeeper
+                    Undertaker/Gravedigger
+                    Weaver
+                    Woodcutter - He's a lumberjack and he's okay.
+                Security (All Fighters) 10%
+                    Sheriff* - few in numbers
+                    Porter/Janitor - In charge of the city/castle entrance and upkeep
+                    Constable - 
+                    Militiaman - 
+                    Militia Captain* - few
+                    Watchman - Responsible for Security
+                Rare Occupations 2%
+                    Nobility
+                    
+
+    Stats
+        STR
+        DEX
+        CON
+        INT
+        WIS
+        CHA
+        
+        HP
+
+    Age
+        Title           H Age   Pop %   Stat dice
+            Infant      0       2.5%    1d2 
+            Toddler     1-3     2.5%    1d3
+            Child       4-12    20%     1d6
+            Youth       13-19   20%     2d6
+            Young Adult 20-39   20%     3d6
+            Adult       40-64   20%     3d6
+            Elder       65+     15%     2d6 for phys 3d6 for int/wis/cha
+        Age
+
+    Appearance
+        Appearance
+            Only applies to youth - adult
+            Ugly
+            Plain
+            Attractive (good looking, pretty)
+            Handsome/Beautiful
+        Hair Color
+        Hair Style
+        Beard (for some races/genders)
+        Eye Color
+        Height
+
+    History
+    Wealth
+        Based on occupation and perhaps history.
+    Inventory
+        Wealth?
+        Worn
+            Clothes
+            Jewelry
+            Weapons
+        Carried
+            Containers
+                Belts
+                Pouches
+                Packs
+    Motivations
+        General Motivations #A life long motivator.. He is motivated by a strong sense of well being.
+            Wealth
+            Well being
+            Love
+            Fear
+            Hate/Revenge
+            Duty
+            Power
+            Competition
+        Side motivations
+            Something that is currently motivating him/her, he just found a gold piece (wealth), he fell in love with a milkmaid, he lost his prize cow (fear).
